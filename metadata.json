@@ -1,0 +1,6 @@
+{
+  "name": "Sitara Mart",
+  "description": "Sitara Mart Supplier and Purchasing Management System with rate comparison, dealer management, purchase recording, and real-time alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
